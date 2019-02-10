@@ -1,0 +1,13 @@
+#!/bin/bash
+exec 2>&1
+
+if [ ! -f /usr/local/ZebraNetworkSystems/NeoRouter/nrserver.README ]; then
+    dpkg -i /$NRSERVER_DEB_NAME
+fi
+
+exec /etc/init.d/nrserver.sh start
+
+pid=`cat /var/run/nrserver.pid`
+while [ ps -p $pid &>/dev/null ]; do
+    sleep 10
+done
