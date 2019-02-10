@@ -1,7 +1,7 @@
 [![](https://images.microbadger.com/badges/version/qlustor/nrserver-free.svg)](https://microbadger.com/images/qlustor/nrserver-free "Get your own version badge on microbadger.com")
 [![](https://images.microbadger.com/badges/image/qlustor/nrserver-free.svg)](https://microbadger.com/images/qlustor/nrserver-free "Get your own image badge on microbadger.com")
 
-# NeoRouter Pro server, docked...
+# NeoRouter Free server, docked...
 
 ![](http://www.neorouter.com/img/screenshots/Windows/Client/Client8.png)
 
