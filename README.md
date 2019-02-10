@@ -64,6 +64,9 @@ NeoRouter Server Setup succeeded.
 
 Then sign in using your client. Enjoy!
 
+##Downloads
+[http://www.neorouter.com/downloads](http://www.neorouter.com/downloads "NeoRouter Downloads")
+
 ## Reference
 [http://download.neorouter.com/Documents/nr_howitworks_en.pdf](http://download.neorouter.com/Documents/nr_howitworks_en.pdf "NoeRouter - How it Works")
 [http://download.neorouter.com/Documents/nr_usermanual_24en.pdf](http://download.neorouter.com/Documents/nr_usermanual_24en.pdf "NeoRouter - User Manual")
