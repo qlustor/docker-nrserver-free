@@ -8,6 +8,6 @@ fi
 exec /etc/init.d/nrserver.sh start
 
 pid=`cat /var/run/nrserver.pid`
-while [ ps -p $pid &>/dev/null ]; do
-    sleep 10
+while ps -p $pid > /dev/null; do
+  sleep 10
 done
